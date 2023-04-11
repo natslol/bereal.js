@@ -26,4 +26,4 @@
 
 # Preview
 
-[![](https://i.imgur.com/59Yv27Y.gif)]
+![](https://i.imgur.com/59Yv27Y.gif)
