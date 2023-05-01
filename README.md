@@ -1,5 +1,7 @@
 # BeReal.js
 
+> **Warning** Not updated, W.I.P.
+
 [![CodeFactor](https://www.codefactor.io/repository/github/natslol/bereal.js/badge)](https://www.codefactor.io/repository/github/natslol/bereal.js)
 
 # Installation 
