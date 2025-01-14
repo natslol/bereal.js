@@ -1,6 +1,8 @@
 # BeReal.js
 
-> **Warning** Not updated, W.I.P.
+> ~~**Warning** Not updated, W.I.P~~.
+
+> It will not be updated... f*ck Voodoo
 
 [![CodeFactor](https://www.codefactor.io/repository/github/natslol/bereal.js/badge)](https://www.codefactor.io/repository/github/natslol/bereal.js)
 
