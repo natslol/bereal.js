@@ -1,8 +1,12 @@
 # BeReal.js
 
+
+
 > ~~**Warning** Not updated, W.I.P~~.
 
-> It will not be updated... f*ck Voodoo
+# It will not be updated... f*ck Voodoo
+
+# If anyone want "bereal.js" from "npm", dm me on discord -> "iamstan"
 
 [![CodeFactor](https://www.codefactor.io/repository/github/natslol/bereal.js/badge)](https://www.codefactor.io/repository/github/natslol/bereal.js)
 
